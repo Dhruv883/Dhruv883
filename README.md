@@ -1,9 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 # 💫 About Me:
 - 🌱 I'm currently learning Next js
 - 💬 Ask me about frontend development
-- 😄 Pronouns: He/Him
 
 
 # 💻 Tech Stack:
