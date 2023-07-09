@@ -1,4 +1,4 @@
-## <div align="center">Hey 👋, I'm Dhruv Dedhia!</div>  
+# <div align="center">Hey 👋, I'm Dhruv Dedhia!</div>  
   
 
 <div align="center">
@@ -17,12 +17,11 @@
 [![](https://visitcount.itsvg.in/api?id=Dhruv883&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
-## 🙂 Glad to see you here!  
-I'm a Frontend Developer with hands-on experience in designing, developing, and implementing Applications using various Frameworks & Programming Languages.
-I love learning new things and developing real world projects ✨  
+# 🙂 Glad to see you here!  
+### I'm a Frontend Developer with hands-on experience in designing, developing, and implementing Applications using various Frameworks & Programming Languages. I love learning new things and developing real world projects ✨  
 
 
-## Rapidfire  
+# Rapidfire  
 
 - 🌱 I’m currently learning MERN Stack
   
@@ -33,8 +32,8 @@ I love learning new things and developing real world projects ✨
 <br/>
 
 
-## 💻 Tech Stack:
-<div align="center">  
+# 💻 Tech Stack:
+<div align="center" >  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60" width="75" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="60" width="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" width="75" /></a>  
@@ -55,11 +54,11 @@ I love learning new things and developing real world projects ✨
 
 <br/>
 
-## 〽️ GitHub Stats:
+# 〽️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv883&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv883&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv883&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
