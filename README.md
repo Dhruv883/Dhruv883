@@ -21,7 +21,7 @@
 
 
 # 🙂 Glad to see you here!  
-### I'm a Frontend Developer with hands-on experience in designing, developing, and implementing Applications using various Frameworks & Programming Languages. I love learning new things and developing real world projects ✨  
+### I'm a Full Stack Developer with hands-on experience in designing, developing, and implementing Applications using various Frameworks & Programming Languages. I love learning new things and developing real world projects ✨  
 
 
 # Rapidfire  
@@ -37,7 +37,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,tailwind,bootstrap,react,php,mysql,postgres,mongodb,nodejs,express,django,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,tailwind,react,nextjs,mysql,postgres,mongodb,nodejs,express,fastapi,aws,docker,django,php,postman,git,github)](https://skillicons.dev)
 
 <br/>
 
