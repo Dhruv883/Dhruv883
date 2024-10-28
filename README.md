@@ -24,13 +24,6 @@
 ### I'm a Full Stack Developer with hands-on experience in designing, developing, and implementing Applications using various Frameworks & Programming Languages. I love learning new things and developing real world projects ✨  
 
 
-# Rapidfire  
-
-- 🌱 I’m currently learning AI/ML
-  
-- ❓ Ask me about anything related to Web Development
-  
-- ⚡ Fun fact: I love playing Chess  
 
 <br/>
 
