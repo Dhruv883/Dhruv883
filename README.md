@@ -10,7 +10,7 @@
 <a href="https://instagram.com/dhruv_0803" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=#FF7139 alt=instagram style="margin: 5px;" />
 </a>  
-  <a href="https://dhruvdedhia.co" target="_blank">
+  <a href="https://dhruvdedhia.com" target="_blank">
     <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 alt=instagram style="margin: 5px;" />
 </a>
 
